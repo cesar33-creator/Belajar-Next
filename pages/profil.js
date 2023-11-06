@@ -18,7 +18,7 @@ const Profil = ({albums}) => {
         </div>
       ))}
     </>
-  );
+  )
 };
 
 export default Profil;

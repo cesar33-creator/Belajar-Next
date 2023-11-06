@@ -18,7 +18,7 @@ const Home = ({posts}) => {
         </div>
       ))}
     </>
-  );
+  )
 };
 
 export default Home;

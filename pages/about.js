@@ -18,7 +18,7 @@ const About = ({ data }) => {
         </div>
       ))}
     </>
-  );
+  )
 };
 
 export default About;
