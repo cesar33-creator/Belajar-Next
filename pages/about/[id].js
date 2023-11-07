@@ -20,7 +20,7 @@ export const getStaticProps = async (context) => {
     props: {
         user: data,
     }
-  }
+  };
 };
 
 const DetailUser = ({ user }) => {
